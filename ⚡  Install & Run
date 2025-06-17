@@ -1,0 +1,1 @@
+npx create-react-app batman-dashboard && cd batman-dashboard && npm install lucide-react tailwindcss && npm start
